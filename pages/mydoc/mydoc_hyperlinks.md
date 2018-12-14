@@ -46,8 +46,8 @@ To implement managed links:
     sidebars:
     - home_sidebar
     - mydoc_sidebar
-    - product1_sidebar
-    - product2_sidebar
+    - order_sidebar
+    - price_sidebar
     - other
     ```
     

@@ -1,9 +1,9 @@
 destination: _site/
-url: "http://127.0.0.1:4011"
-baseurl: "/product1-pdf"
-port: 4011
-product: Order
-print_title: Order documentation
+url: "http://127.0.0.1:4012"
+baseurl: "/price-pdf"
+port: 4012
+product: Price
+print_title: Price documentation
 print_subtitle: version 1.0
 output: pdf
 defaults:
@@ -16,4 +16,4 @@ defaults:
       comments: true
       search: true
 
-pdf_sidebar: product1_sidebar
+pdf_sidebar: price_sidebar

@@ -1,14 +1,10 @@
 ---
-title: Sample 11 Topic
+title: Sample 3 Topic (Order)
 keywords: sample
 summary: "This is just a sample topic..."
-sidebar: product2_sidebar
-permalink: p2_sample11.html
-complex_map: true
-map_name: usermapcomplex
-box_number: 2
-toc: false
-folder: product2
+sidebar: order_sidebar
+permalink: order_sample3.html
+folder: order
 ---
 
 ## Sample Content
