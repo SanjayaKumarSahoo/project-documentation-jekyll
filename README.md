@@ -8,9 +8,12 @@ A GitHub site for product / engineering documentation
 
    [Install Bundler](https://idratherbewriting.com/documentation-theme-jekyll/index.html#3-install-bundler)
 
-# [Install](https://idratherbewriting.com/documentation-theme-jekyll/index.html)
-    project-documentation-jekyll$ bundle update
-# Run local
-    project-documentation-jekyll$ bundle exec jekyll serve
+# [Install Ruby Gems](https://idratherbewriting.com/documentation-theme-jekyll/index.html)
+    project-documentation-jekyll$  bundle update
+# Runging local
+    project-documentation-jekyll$  bundle exec jekyll serve
+
+# Running the site in Docker
+    project-documentation-jekyll$  docker-compose build --no-cache && docker-compose up
 # View site
    http://127.0.0.1:4000
