@@ -2,13 +2,11 @@
 A GitHub site for product / engineering documentation
 
 # Prerequisite
-   [Install Jekyll on Mac](https://idratherbewriting.com/documentation-theme-jekyll/mydoc_install_jekyll_on_mac.html)
+   [Install Jekyll on Mac](https://idratherbewriting.com/project-documentation-jekyll/mydoc_install_jekyll_on_mac.html)-theme-jekyll/mydoc_install_jekyll_on_windows.html)
 
-   [Install Jekyll on Windows](https://idratherbewriting.com/documentation-theme-jekyll/mydoc_install_jekyll_on_windows.html)
+   [Install Bundler](https://idratherbewriting.com/project-documentation-jekyll/index.html#3-install-bundler)
 
-   [Install Bundler](https://idratherbewriting.com/documentation-theme-jekyll/index.html#3-install-bundler)
-
-# [Install Ruby Gems](https://idratherbewriting.com/documentation-theme-jekyll/index.html)
+# [Install Ruby Gems](https://idratherbewriting.com/project-documentation-jekyll/index.html)
     project-documentation-jekyll$  bundle update
 # Runging local
     project-documentation-jekyll$  bundle exec jekyll serve
