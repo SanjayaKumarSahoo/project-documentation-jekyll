@@ -12,3 +12,5 @@ TBD
 
 ## Coding standard 2
 TBD
+
+{% include links.html %}

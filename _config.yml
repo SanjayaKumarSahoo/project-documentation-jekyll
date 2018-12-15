@@ -98,7 +98,7 @@ defaults:
       sidebar: home_sidebar
       topnav: topnav
 
-# these are defaults used for the frontmatter for these file types
+# these are defaults used for the front matter for these file types
 
 sidebars:
 - home_sidebar

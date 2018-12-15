@@ -12,3 +12,5 @@ TBD
 
 ## Architecture Design Record 2
 TBD
+
+{% include links.html %}

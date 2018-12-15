@@ -1,0 +1,68 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Identity service
+  version:
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Identity Service Design
+    output: web, pdf
+    folderitems:
+
+    - title: Approach
+      url: /identity_service_approach
+      output: web, pdf
+
+    - title: NFR / SLA
+      url: /nfr_sla
+      output: web, pdf
+
+    - title: Enpdoints
+      url: /identity_service_endpoints
+      output: web, pdf
+      subfolders:
+      - title: API's
+        output: web
+
+        subfolderitems:
+        - title: Generate access token
+          url: /generate_access_token
+          output: web
+
+        - title: Validate token
+          url: /validate_token
+          output: web
+
+        - title: Get user details
+          url: /get_user_details_by_token
+          output: web
+
+        - title: Refresh token
+          url: /refresh_token
+          output: web
+
+    - title: Database design
+      url: /database_modelling
+      output: web, pdf
+
+    - title: Eventing
+      url: /eventing
+      output: web, pdf
+
+    - title: Caching
+      url: /caching
+      output: web, pdf

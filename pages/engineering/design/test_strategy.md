@@ -12,3 +12,5 @@ TBD
 
 ## Test strategy 2
 TBD
+
+{% include links.html %}
