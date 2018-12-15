@@ -1,10 +1,10 @@
 ---
-title: Sample 3 Topic (Order)
+title: Sample 5 Topic (Service1)
 keywords: sample
 summary: "This is just a sample topic..."
-sidebar: order_sidebar
-permalink: order_sample3.html
-folder: order
+sidebar: service1_sidebar
+permalink: service1_sample5.html
+folder: service1
 ---
 
 ## Sample Content

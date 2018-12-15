@@ -2,12 +2,12 @@
 title: Sample 3 Topic
 keywords: sample
 summary: "This is just a sample topic..."
-sidebar: price_sidebar
-permalink: price_sample3.html
+sidebar: service2_sidebar
+permalink: service2_sample3.html
 simple_map: true
 map_name: usermap
 box_number: 3
-folder: price
+folder: service2
 ---
 
 ## Sample Content

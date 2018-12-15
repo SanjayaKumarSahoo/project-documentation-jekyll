@@ -13,8 +13,8 @@ folder: mydoc
 
 You can implement workflow maps at the top of your pages. This is helpful if you're describing a process that involves multiple topics. See the following demos:
 
-*  [Simple workflow maps][price_sample1]
-*  [Complex workflow maps][price_sample6]
+*  [Simple workflow maps][service2_sample1]
+*  [Complex workflow maps][service2_sample6]
 
 
 ## Simple workflow maps
@@ -23,15 +23,15 @@ You can implement workflow maps at the top of your pages. This is helpful if you
 
     ```xml  
     <div id="userMap">
-    <div class="content"><a href="price_sample1.html"><div class="box box1">Connect to ADB</div></a></div>
+    <div class="content"><a href="service2_sample1.html"><div class="box box1">Connect to ADB</div></a></div>
     <div class="arrow">→</div>
-    <div class="content"><a href="price_sample2.html"><div class="box box2">Download and Build the Starter Kit</div></a></div>
+    <div class="content"><a href="service2_sample2.html"><div class="box box2">Download and Build the Starter Kit</div></a></div>
     <div class="arrow">→</div>
-    <div class="content"><a href="price_sample3.html"><div class="box box3">Take a Tour</div></a></div>
+    <div class="content"><a href="service2_sample3.html"><div class="box box3">Take a Tour</div></a></div>
     <div class="arrow">→</div>
-    <div class="content"><a href="price_sample4.html"><div class="box box4">Load Your Widgets</div></a></div>
+    <div class="content"><a href="service2_sample4.html"><div class="box box4">Load Your Widgets</div></a></div>
     <div class="arrow">→</div>
-    <div class="content"><a href="price_sample5.html"><div class="box box5">Query for Something</div></a></div>
+    <div class="content"><a href="service2_sample5.html"><div class="box box5">Query for Something</div></a></div>
     <div class="clearfix"></div>
     </div>
     ```
@@ -45,8 +45,8 @@ You can implement workflow maps at the top of your pages. This is helpful if you
     title: Sample 1 Topic
     keywords: sample
     summary: "This is just a sample topic..."
-    sidebar: price_sidebar
-    permalink: price_sample1
+    sidebar: service2_sidebar
+    permalink: service2_sample1
     folder: price
     <span class="red">simple_map</span>: true
     <span class="red">map_name</span>: usermap
@@ -85,9 +85,9 @@ The simpler user workflow allows for 5 workflow steps. If you have a more comple
     <p>This is just dummy text ... Your first steps should be to get started. You will need to do the following:</p>
     
         <ul>
-            <li><a href="price_sample6.html">Sample 6</a></li>
-            <li><a href="price_sample7.html">Sample 7</a></li>
-            <li><a href="price_sample8.html">Sample 8</a></li>
+            <li><a href="service2_sample6.html">Sample 6</a></li>
+            <li><a href="service2_sample7.html">Sample 7</a></li>
+            <li><a href="service2_sample8.html">Sample 8</a></li>
         </ul>
         <p>If you run into any of these setup issues, you must solve them before you can continue on.</p>
     
@@ -109,8 +109,8 @@ The simpler user workflow allows for 5 workflow steps. If you have a more comple
     title: Sample 6 Topic
     keywords: sample
     summary: "This is just a sample topic..."
-    sidebar: price_sidebar
-    permalink: price_sample6
+    sidebar: service2_sidebar
+    permalink: service2_sample6
     <span class="red">complex_map: true</span>
     <span class="red">map_name: usermapcomplex</span>
     <span class="red">box_number: 1</span>

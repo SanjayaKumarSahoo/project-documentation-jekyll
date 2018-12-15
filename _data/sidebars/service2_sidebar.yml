@@ -1,8 +1,8 @@
 # This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
 
 entries:
-- title: Price
-  product: Price
+- title: Service2
+  product: Service2
   version: 1.0
   folders:
 
@@ -24,7 +24,7 @@ entries:
     folderitems:
 
     - title: Overview
-      url: /price_landing_page.html
+      url: /service2_landing_page.html
       output: web
 
   - title: Simple Workflow
@@ -32,23 +32,23 @@ entries:
     folderitems:
 
     - title: Sample 1
-      url: /price_sample1.html
+      url: /service2_sample1.html
       output: web, pdf
 
     - title: Sample 2
-      url: /price_sample2.html
+      url: /service2_sample2.html
       output: web, pdf
 
     - title: Sample 3
-      url: /price_sample3.html
+      url: /service2_sample3.html
       output: web, pdf
 
     - title: Sample 4
-      url: /price_sample4.html
+      url: /service2_sample4.html
       output: web, pdf
 
     - title: Sample 5
-      url: /price_sample5.html
+      url: /service2_sample5.html
       output: web, pdf
 
   - title: Complex Workflow
@@ -56,37 +56,37 @@ entries:
     folderitems:
 
     - title: Sample 6
-      url: /price_sample6.html
+      url: /service2_sample6.html
       output: web, pdf
 
     - title: Sample 7
-      url: /price_sample7.html
+      url: /service2_sample7.html
       output: web, pdf
 
     - title: Sample 8
-      url: /price_sample8.html
+      url: /service2_sample8.html
       output: web, pdf
 
     - title: Sample 9
-      url: /price_sample9.html
+      url: /service2_sample9.html
       output: web, pdf
 
     - title: Sample 10
-      url: /price_sample10.html
+      url: /service2_sample10.html
       output: web, pdf
 
     - title: Sample 11
-      url: /price_sample11.html
+      url: /service2_sample11.html
       output: web, pdf
 
     - title: Sample 12
-      url: /price_sample12.html
+      url: /service2_sample12.html
       output: web, pdf
 
     - title: Sample 13
-      url: /price_sample13.html
+      url: /service2_sample13.html
       output: web, pdf
 
     - title: Sample 14
-      url: /price_sample14.html
+      url: /service2_sample14.html
       output: web, pdf

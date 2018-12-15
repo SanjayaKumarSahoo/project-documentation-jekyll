@@ -2,8 +2,8 @@
 
 
 entries:
-- title: Order
-  product: Order
+- title: Service1
+  product: Service1
   version: 1.0
   folders:
 
@@ -23,20 +23,20 @@ entries:
   - title: Getting Started
     output: web, pdf
     folderitems:
-    - title: Order home
-      url: /order_landing_page.html
+    - title: Service1 home
+      url: /service1_landing_page.html
       output: web
 
     - title: Sample 1
-      url: /order_sample1.html
+      url: /service1_sample1.html
       output: web, pdf
 
     - title: Sample 2
-      url: /order_sample2.html
+      url: /service1_sample2.html
       output: web, pdf
 
     - title: Sample 3
-      url: /order_sample3.html
+      url: /service1_sample3.html
       output: web, pdf
 
   - title: Another heading
@@ -44,17 +44,17 @@ entries:
 
     folderitems:
     - title: Sample 4
-      url: /order_sample4.html
+      url: /service1_sample4.html
       output: web, pdf
 
     - title: Sample 5
-      url: /order_sample5.html
+      url: /service1_sample5.html
       output: web, pdf
 
     - title: Sample 6
-      url: /order_sample6.html
+      url: /service1_sample6.html
       output: web, pdf
 
     - title: Sample 7
-      url: /order_sample7.html
+      url: /service1_sample7.html
       output: web, pdf

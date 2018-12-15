@@ -14,12 +14,12 @@ topnav:
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
-    - title: Domains
+    - title: Services
       folderitems:
-        - title: Order
-          url: /order_landing_page.html
-        - title: Price
-          url: /price_landing_page.html
+        - title: service1
+          url: /service1_landing_page.html
+        - title: service2
+          url: /service2_landing_page.html
     - title: Jekyll Help
       folderitems:
         - title: Jekyll Documentation Theme

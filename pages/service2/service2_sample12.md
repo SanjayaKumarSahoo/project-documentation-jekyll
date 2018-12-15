@@ -1,17 +1,15 @@
 ---
-title: Sample 9 Topic
+title: Sample 12 Topic
 keywords: sample
 summary: "This is just a sample topic..."
-sidebar: price_sidebar
-permalink: price_sample9.html
+sidebar: service2_sidebar
+permalink: service2_sample12.html
 complex_map: true
 map_name: usermapcomplex
-box_number: 2
+box_number: 3
 toc: false
-folder: price
+folder: servoc
 ---
-
-
 
 ## Sample Content
 
