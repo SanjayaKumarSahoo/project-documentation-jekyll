@@ -6,7 +6,8 @@ sidebar: identity_service_sidebar
 permalink: generate_access_token
 ---
 
-## A sample flow (To demonstrate how it looks )
+## A sample flow
+ To demonstrate how it looks
 
 <div class="text-center">
 <img src="pages/identity-service/designFlows/oauth2-abstract-protocol-flow.png" />
