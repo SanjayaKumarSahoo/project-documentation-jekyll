@@ -2,7 +2,7 @@
 title: Tech stack
 tags: [tech_stack]
 keywords:
-last_updated: May 28, 2018
+last_updated: Dec 15, 2018
 summary: Tech stack
 sidebar: engineering_sidebar
 permalink: tech_stack

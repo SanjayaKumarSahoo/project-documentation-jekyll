@@ -2,7 +2,7 @@
 title: Architecture Design Record
 tags: [adr]
 keywords: adr
-last_updated: May 28, 2018
+last_updated: Dec 15, 2018
 summary: Architecture Design Record
 sidebar: engineering_sidebar
 permalink: adr

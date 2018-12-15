@@ -96,7 +96,7 @@ In each page's frontmatter, you must specify the sidebar you want that page to u
 title: Alerts
 tags: [formatting]
 keywords: notes, tips, cautions, warnings, admonitions
-last_updated: July 3, 2016
+last_updated: Dec 15, 2018
 summary: "You can insert notes, tips, warnings, and important alerts in your content. These notes are stored as shortcodes made available through the linksrefs.hmtl include."
 <span class="red">sidebar: mydoc_sidebar</span>
 permalink: mydoc_alerts
