@@ -1,0 +1,71 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: Engineering
+  product: Engineering
+  version: 1.0
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Technology
+    output: web, pdf
+    folderitems:
+    - title: Tech Stack
+      url: /tech_stack
+      output: web, pdf
+      subfolders:
+      - title: Blogs
+        output: web
+        subfolderitems:
+
+          - title: Ressiliency,Failure Recovery
+            url: /fail_recovery
+            output: web, pdf
+
+          - title: Cache
+            url: /cache
+            output: web, pdf
+
+  - title: Design
+    output: web, pdf
+    folderitems:
+
+    - title: Architecture & Design
+      url: /hld
+      output: web, pdf
+
+    - title: Microservice & Component Diagram
+      url: /component_diagram
+      output: web, pdf
+
+    - title: Technical Debt
+      url: /tech_debt
+      output: web, pdf
+      subfolders:
+      - title: Facets
+        output: web
+        subfolderitems:
+
+        - title: Architecture Design Record
+          url: /adr
+          output: web
+
+        - title: Coding standard
+          url: /coding_standard
+          output: web
+
+        - title: Testing Strategies
+          url: /test_strategy
+          output: web

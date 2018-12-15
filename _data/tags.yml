@@ -13,3 +13,16 @@ allowed-tags:
   - news
   - troubleshooting
   - mobile
+# engineering
+  - resiliency
+  - recovery
+  - durability
+  - idempotency
+  - cache
+  - tech_stack
+  - hld
+  - component
+  - tech_debt
+  - adr
+  - coding_standard
+  - test_strategy
