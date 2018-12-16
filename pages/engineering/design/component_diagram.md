@@ -10,7 +10,7 @@ summary: Micro services & Component Diagram.
 
 ## Component Diagram
 
-The below diagram details all the components & micro services that make up customer order service.<br>
+The below diagram details all the components & micro services that make up a sample service.<br>
 
 <div class="text-center">
 <img src="resources/architecture/comp_diag/component.png" />
